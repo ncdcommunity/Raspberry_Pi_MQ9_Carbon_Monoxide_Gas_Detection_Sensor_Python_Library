@@ -3,7 +3,10 @@
 
 # ADC121C_MQ9
 ADC121C_MQ9 is a carbon monoxide gas detection Sensor.
-This Device is available from www.ncd.io [SKU: ADC121C_MQ9_I2CS]
+This Device is available from www.ncd.io
+
+[SKU: ADC121C_MQ9_I2CS]
+
 (https://store.ncd.io/product/mq-9-carbon-monoxide-combustible-gas-sensor-adc121c-12-bit-adc-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
